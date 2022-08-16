@@ -17,3 +17,9 @@ Analysing data is time consuming and need effort. Before blindly touching given 
 <br>
 Today I have done a sql project. I completed 'Analyze International Debt Statistics'. It was a project listed in Data camp which is a very good platform for learning data science and analytics. I have made a jupiter note book. I will update the same in the upcoming days with added insights and summary. In a nutshell the project contained 9 questions, given data put lights on the world debt percentage by each countries. I used mysql work bench for writing queries. Listed the same in a jupyter note book but the story telling part needs much more improvement. I will work on it.
 </details>
+
+<details>
+<summary>16/08/2022 - Analyzing American Baby Name Trends </summary>
+<br>
+Today I have done another sql project. Still working on the project. It involve sql table join. I know documentation part of yesterday's project is still there. Worked on it as well little bit of work is pending.I am planning to start separate repo for each project. The queries involved in this project is little bit complex in nature. Hurray I can manage it!! 😏. Tomorrow hopefully I can complete both the project and it's documentation. 
+</details>
