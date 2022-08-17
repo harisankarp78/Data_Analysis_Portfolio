@@ -23,3 +23,12 @@ Today I have done a sql project. I completed 'Analyze International Debt Statist
 <br>
 Today I have done another sql project. Still working on the project. It involve sql table join. I know documentation part of yesterday's project is still there. Worked on it as well little bit of work is pending.I am planning to start separate repo for each project. The queries involved in this project is little bit complex in nature. Hurray I can manage it!! 😏. Tomorrow hopefully I can complete both the project and it's documentation. 
 </details>
+
+<details>
+<summary>17/08/2022 - Struggle is Real </summary>
+<br>
+It was a really difficult day for me. Now the time is 2.37 A.M. I was trying to install jupyter notebook by myself in my localhost and connecting the same with sql for my project documentation. The first part went really well. But connecting sql with notebook was a pain in my a**. I struggled a lot. But thanks to me for my dedication finally I made it. But I am sorry I coudn't start documentation as it is almost 3 in the morning. I want a sleep. Almost 7 hours of struggle and reading documentation were required for me to troubleshoot the issue. Between don't use a @ in your SQL password you can thank me later 😆😆. I will upload my notebook file along with it. It is untitled 4. 
+Fun fact:1,2,3 were there but I am not going to upload that
+
+Good Morning 😂
+</details>
