@@ -32,3 +32,11 @@ Fun fact:1,2,3 were there but I am not going to upload that
 
 Good Morning 😂
 </details>
+
+<details>
+<summary>18/08/2022 - Documentation and python (pandas and matplotlib) started </summary>
+<br>
+I have started learning pandas and matplotlib. Seems little bit overwhelming but its okay I will learn it. Started documenting my sql project using jupyter notebook. I will upload sql script and jupyter notebook today in a seperate repo.I am planning to do a video on how to install jupyter notebook and run sql in jupyter using ipython-sql. Documentation is cool
+Good Morning 😂
+</details>
+
