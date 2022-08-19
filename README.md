@@ -40,3 +40,12 @@ I have started learning pandas and matplotlib. Seems little bit overwhelming but
 Good Morning 😂
 </details>
 
+
+<details>
+<summary>19/08/2022 - Forage </summary>
+<br>
+1. Found a new platform called forage.com. It has lot of virtual experiences that we can explore are do like a course or a project. They offer certificate for task completion. I have enrolled for accenture data analysis program using excel. The whole program is free. I have learned about Pivot table and power query to join two tables. 
+2.Purchased a data analyst course. More updates from tomorrow onwards.
+Good Morning 😂
+</details>
+
